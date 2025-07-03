@@ -1,0 +1,34 @@
+Introdução
+
+O desemprego é um dos principais desafios enfrentados por diversas comunidades, afetando diretamente a qualidade de vida de inúmeras pessoas. Muitos desempregados enfrentam dificuldades não apenas pela escassez de vagas, mas também pela falta de acesso a informações centralizadas e atualizadas sobre oportunidades de trabalho próximas de sua localização.
+
+Neste contexto, a tecnologia surge como uma aliada fundamental. Este projeto propõe o desenvolvimento de uma solução digital – um aplicativo acessível e intuitivo – que facilite a busca por empregos em um raio de distância definido pelo usuário. A ferramenta permitirá que o candidato visualize vagas disponíveis em sua região de interesse, elabore seu currículo por meio de modelos prontos, e envie candidaturas diretamente pelo aplicativo.
+
+Além disso, o sistema será capaz de automatizar a coleta de vagas disponíveis em diversos canais, como sites especializados e jornais, integrando todas as informações em um único banco de dados. Para tornar a experiência do usuário ainda mais rápida e prática, será possível realizar o login utilizando plataformas conhecidas, como o Google, otimizando o processo de acesso e uso.
+
+Essa iniciativa busca conectar pessoas às oportunidades certas, reduzindo as barreiras no processo de recolocação profissional por meio do uso inteligente da tecnologia.
+
+justificativa
+
+A crescente taxa de desemprego em diversas regiões do país evidencia a necessidade urgente de soluções que facilitem o acesso da população às oportunidades de trabalho. Muitos candidatos enfrentam dificuldades na busca por emprego, seja por limitações de mobilidade, falta de informação centralizada ou por não dominarem ferramentas digitais complexas.
+
+Apesar da existência de sites e plataformas de emprego, grande parte deles exige um nível elevado de navegação ou não oferece filtros eficazes por localização e perfil. Além disso, pequenas e médias empresas, que frequentemente têm vagas disponíveis, nem sempre utilizam esses meios para divulgar suas oportunidades.
+
+Diante desse cenário, justifica-se o desenvolvimento de uma aplicação que automatize a busca por vagas de emprego em múltiplas fontes, organizando essas informações em um banco de dados acessível e filtrável. Ao permitir que o usuário defina sua localização de interesse, crie seu currículo com facilidade e envie candidaturas diretamente pela plataforma, o aplicativo propõe uma solução prática, acessível e eficiente.
+
+Com login facilitado via plataformas como Google, a experiência do usuário é otimizada, incentivando sua utilização mesmo por pessoas com menos familiaridade com tecnologia. Assim, o projeto se justifica como uma resposta concreta e necessária à dificuldade enfrentada por desempregados na busca por uma colocação no mercado de trabalho.
+
+Objetivo geral:
+
+conseguir uma interface intuitiva.
+
+
+Objetivo especifico:
+
+-Automatizaçao de busca de emprego 
+
+-Login com AUTH 
+
+-Tela de login 
+
+-Mapa com localização dos lugares
